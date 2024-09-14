@@ -23,7 +23,8 @@ This repository contains the code and analysis for a **fraud detection system** 
 - **Exploratory Data Analysis (EDA)**:
   - Visualization of class distribution (Legit vs. Fraud) using bar charts.
   - Heatmaps for analyzing feature correlations and identifying key relationships.
-  
+  ![Screenshot (82)](https://github.com/user-attachments/assets/d277c2c8-d82c-4976-8249-13f1c0bf91f6)
+
 - **Model Training**:
   - Training three models: **Random Forest**, **Decision Tree**, and **XGBoost**.
   - Performance comparison using various evaluation metrics like accuracy, precision, recall, F1-score, and ROC curves.
@@ -32,6 +33,9 @@ This repository contains the code and analysis for a **fraud detection system** 
   - Confusion matrix and classification report for precision, recall, F1-score, and accuracy.
   - Visualization of **Confusion Matrices** for Random Forest and Decision Tree.
   - ROC-AUC curve to measure the models' ability to distinguish between the classes.
+![Screenshot (83)](https://github.com/user-attachments/assets/6b80a4bc-28e4-4080-bebc-6d8970be4bb2)
+![Screenshot (84)](https://github.com/user-attachments/assets/ffb40f2c-4a23-4fa0-a07f-53c54082ec05)
+![Screenshot (85)](https://github.com/user-attachments/assets/d398c257-8ded-48be-a0aa-fd09482a5b45)
 
 ## Dataset
 
